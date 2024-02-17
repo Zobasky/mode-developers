@@ -14,9 +14,9 @@
 ## What is Mode?
 Mode is an EVM-compatible layer 2 built with the Optimism stack and part of the Superchain. Mode is designed to foster a growth environment where anyone that helps the network grow, grows with the network. There are several mechanisms built into the protocol that help achieve this, like the [SFS (Sequencer Fee Sharing)](Guides/SFS_FAQ.md), on-chain referrals, and more.
 
-When deploying on Mode, you are not only participating in one L2 that’s isolated from the rest of web3, you are also participating in the Superchain. By deploying on Mode, you are eligible to participate in retroPGF rounds, the 1 billion dollar fund managed by Optimism.
+When deploying on Mode, you are not only participating in one L2 that’s isolated from the rest of web3, but you are also participating in the Superchain. By deploying on Mode, you are eligible to participate in retroPGF rounds, the 1 billion dollar fund managed by Optimism.
 
-Also, Mode looks to contribute to Optimism’s DeFi ecosystem, allowing for new and innovative projects to enjoy low gas fees and predictable revenue through the SFS and developer airdrops.
+Also, Mode looks to contribute to Optimism’s DeFi ecosystem, allowing new and innovative projects to enjoy low gas fees and predictable revenue through the SFS and developer airdrops.
 
 ## Resources
 * [SFS (Sequencer Fee Sharing)](Guides/SFS_FAQ.md)
@@ -26,7 +26,7 @@ Also, Mode looks to contribute to Optimism’s DeFi ecosystem, allowing for new 
 
 If you have found an issue or bug, please create an [issue](https:/https://github.com/mode-network/mode-developers).
 
-If it's a quick fix, such as a misspelled word or a broken link, feel free to skip creating an issue. You can create a [pull request](https://github.com/mode-network/mode-developers/pulls) directly.
+Feel free to skip creating an issue if it's a quick fix, such as a misspelled word or a broken link. You can create a [pull request](https://github.com/mode-network/mode-developers/pulls) directly.
 
 ## Have feedback for us?
 
